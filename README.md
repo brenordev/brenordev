@@ -1,10 +1,10 @@
-- 👋 Olá, me chamo Breno Ribeiro e tenho 21 anos.
-- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistema | UNESA - Universidade Estácio de Sá.
-- 📚 Estou estudando HTML, CSS e JavaScript.
-- 🔭 A princípio meu objetivo estudando as tecnoligias citadas acima é para desenvolvimento de carreira.
 
+# Sobre mim
 
-<!---
-brenordev/brenordev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Me chamo Breno Ribeiro, atualmente tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas na Estácio - UNESA mais especificamente na unidade de Taguatinga Sul | Brasília - DF. 
+Desde quando tive o primeiro contato com um computador pela primeira vez no ano de 2010 e definitivamente sem saber o que estava fazendo, eu me apaixonei e assim hoje em dia formado em uma área de tecnologia.
+
+## Conhecimentos Básicos
+
+![App Screenshot](https://miro.medium.com/max/1400/1*vT4fCkknydeG480A-zZmTA.png)
+
