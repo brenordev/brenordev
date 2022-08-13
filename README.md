@@ -6,7 +6,7 @@
 🎯 Iniciando carreira como Desenvolvedor Front End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 💻 Estudando JavaScript, Git e GitGub<br>
 
-##Meu Portfólio
+## Meu Portfólio
 https://brenordev.github.io/portfolio/
 
 ## Tecnologias
