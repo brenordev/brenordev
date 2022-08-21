@@ -6,13 +6,6 @@
 🎯 Iniciando carreira como Desenvolvedor Front End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 💻 Estudando JavaScript, Git e GitGub<br>
 
-<div align="center">
-  <a href="https://github.com/brenordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ## Meu Portfólio
 https://brenordev.github.io/portfolio/
 
