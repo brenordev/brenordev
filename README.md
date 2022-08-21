@@ -32,5 +32,5 @@ https://brenordev.github.io/portfolio/
   
   
 <div align="center">
-  <img src="https://profile-counter.glitch.me/guilhermedebrites/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/brenordev/count.svg?"  />
 </div>
