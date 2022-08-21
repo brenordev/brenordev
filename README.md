@@ -29,3 +29,8 @@ https://brenordev.github.io/portfolio/
 ## Especificações do PC.
 <img src="https://img.shields.io/badge/Intel-Core_i5_9th_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650_TUF_Gaming-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/guilhermedebrites/count.svg?"  />
+</div>
