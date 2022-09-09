@@ -9,7 +9,6 @@
 ## Meu Portfólio
 https://brenordev.github.io/portfolio/
 
-## Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,7 +18,6 @@ https://brenordev.github.io/portfolio/
   
   ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
   
-## Redes Sociais
 <div>
 <a href="https://www.instagram.com/brenor.dev/" target"_blank"/><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-         badge&logo=instagram&logoColor=white"/>
 <a href="https://www.linkedin.com/in/breno-ribeiro-293653231/" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
