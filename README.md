@@ -1,7 +1,7 @@
 
 # Sobre mim
 
-🙋 Breno Ribeiro, 22 anos. <br>
+🙋‍♂️ Breno Ribeiro, 22 anos. <br>
 👨‍🎓 Análise e Desenvolvimento de Sistemas na Estácio.<br>
 🎯 Iniciando carreira como Desenvolvedor Front End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 💻 Estudando JavaScript, Git e GitGub<br>
