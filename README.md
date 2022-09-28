@@ -4,7 +4,8 @@
 👨‍🎓 Análise e Desenvolvimento de Sistemas - Universidade Estácio de SA.<br>
 🎯 Iniciando carreira como Desenvolvedor Front-End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 💻 Estudando JavaScript, Git e GitGub<br>
-🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding 💻</a>
+🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding 💻</a><br>
+🌐 <a href="https://brenordev.github.io/portfolio/">Portfólio</a><br>
 
 <div align="left">
 <br>
@@ -18,10 +19,6 @@
   ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-  
-  
-### Meu Portfólio
-https://brenordev.github.io/portfolio/
 
 ### Conhecimentos em:
 <div>
