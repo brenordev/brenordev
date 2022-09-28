@@ -1,4 +1,4 @@
-# Sobre mim
+## Sobre mim
 
 🙋‍♂️ Breno Ribeiro, 22 anos. <br>
 👨‍🎓 Análise e Desenvolvimento de Sistemas - Universidade Estácio de SA.<br>
