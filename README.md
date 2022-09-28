@@ -13,6 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div align="left">
+  
+  ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+  
+  
 ### Meu Portfólio
 https://brenordev.github.io/portfolio/
 
@@ -23,11 +30,7 @@ https://brenordev.github.io/portfolio/
   <img src="https://img.shields.io/badge/JavaScript-DA0037?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-DA0037?style=for-the-badge&logo=sass&logoColor=white">
 </div>
-<div>
-  
-  ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
- 
-<div>
+
 
 ### Contato
 
