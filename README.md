@@ -6,13 +6,22 @@
 💻 Estudando JavaScript, Git e GitGub<br>
 🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding 💻</a>
 
-## Meu Portfólio
+<div align="left">
+<br>
+  <a href="https://github.com/brenordev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### Meu Portfólio
 https://brenordev.github.io/portfolio/
 
+### Conhecimentos em:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <div>
   
