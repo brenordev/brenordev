@@ -26,14 +26,14 @@ https://brenordev.github.io/portfolio/
 <div>
   
   ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+<div>
+
+### Contato
+
 <div>
 <a href="https://www.instagram.com/brenor.dev/" target"_blank"/><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Instagram-DA0037?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="hhttps://twitter.com/brenor_dev"><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Twitter-DA0037?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/breno-ribeiro-293653231/" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/LinkedIn-DA0037?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://github.com/brenordev" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/GitHub-DA0037?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
-## Especificações do PC.
-<img src="https://img.shields.io/badge/Intel-Core_i5_9th_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650_TUF_Gaming-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  
