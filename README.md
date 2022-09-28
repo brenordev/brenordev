@@ -1,8 +1,8 @@
 # Sobre mim
 
 🙋‍♂️ Breno Ribeiro, 22 anos. <br>
-👨‍🎓 Análise e Desenvolvimento de Sistemas na Estácio.<br>
-🎯 Iniciando carreira como Desenvolvedor Front End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
+👨‍🎓 Análise e Desenvolvimento de Sistemas - Universidade Estácio de SA.<br>
+🎯 Iniciando carreira como Desenvolvedor Front-End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 💻 Estudando JavaScript, Git e GitGub<br>
 🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding 💻</a>
 
