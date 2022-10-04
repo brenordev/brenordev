@@ -7,12 +7,12 @@
 🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding</a><br>
 🌐 <a href="https://brenordev.github.io/portfolio/">Brenor.Dev Portfólio</a><br>
 
-<div align="left">
+<!--<div align="left">
 <br>
   <a href="https://github.com/brenordev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
 
 <div align="left">
   
