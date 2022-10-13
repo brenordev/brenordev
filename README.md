@@ -1,3 +1,5 @@
+
+
 ## Sobre mim
 
 🙋‍♂️ Breno Ribeiro, 22 anos. <br>
@@ -19,6 +21,8 @@
   ![Snake animation](https://github.com/brenordev/brenordev/blob/output/github-contribution-grid-snake.svg)
 
 <div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brenordev&bg_color=000000&color=a9a7a7&line=ff0000&point=a30000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Conhecimentos em:
 <div>
