@@ -9,6 +9,23 @@
 🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding</a><br>
 🌐 <a href="https://brenordev.github.io/portfolio/">Brenor.Dev Portfólio</a><br>
 
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-DA0037?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-DA0037?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-DA0037?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-DA0037?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+
+#### Contato
+
+<div>
+<a href="https://www.instagram.com/brenor.dev/" target"_blank"/><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Instagram-DA0037?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://twitter.com/brenor_dev"><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Twitter-DA0037?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/breno-ribeiro-293653231/" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/LinkedIn-DA0037?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/brenordev" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/GitHub-DA0037?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
 <div align="left">
 <br>
   <a href="https://github.com/brenordev">
@@ -24,20 +41,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brenordev&bg_color=000000&color=a9a7a7&line=ff0000&point=a30000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Conhecimentos em:
-<div>
-  <img src="https://img.shields.io/badge/HTML5-DA0037?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-DA0037?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-DA0037?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-DA0037?style=for-the-badge&logo=sass&logoColor=white">
-</div>
 
-
-### Contato
-
-<div>
-<a href="https://www.instagram.com/brenor.dev/" target"_blank"/><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Instagram-DA0037?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://twitter.com/brenor_dev"><img border-radius="0" align="center" width="100" height="25" src="https://img.shields.io/badge/Twitter-DA0037?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/breno-ribeiro-293653231/" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/LinkedIn-DA0037?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://github.com/brenordev" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/GitHub-DA0037?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
