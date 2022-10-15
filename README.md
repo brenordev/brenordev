@@ -7,7 +7,7 @@
 🎯 Iniciando carreira como Desenvolvedor Front-End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 📚 Estudando JavaScript.<br>
 🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9">Playlist Spotify Coding</a><br>
-🌐 <a href="https://brenordev.github.io/portfolio/">Brenor.Dev Portfólio</a><br>
+🌐 <a href="https://portfolio-two-gules-69.vercel.app/">Novo Portfólio em desenvolvimento</a><br>
 
 
 <div>
