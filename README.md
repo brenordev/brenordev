@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/breno-ribeiro-293653231/" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/LinkedIn-DA0037?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://github.com/brenordev" target"_blank"/><img align="center" width="100" height="25" src="https://img.shields.io/badge/GitHub-DA0037?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
- <hr style="border: none; border-top: 2px dotted black" />
+
 <div align="left">
 <br>
   <a href="https://github.com/brenordev">
