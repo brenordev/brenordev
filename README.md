@@ -30,9 +30,8 @@
 
 <div align="left">
 <br>
-  <a href="https://github.com/brenordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenordev&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Francisco Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenordev&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
 <div align="left">
