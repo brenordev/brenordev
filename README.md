@@ -2,7 +2,7 @@
 
 ## Sobre mim
 <div align="left">
-👦Breno Ribeiro, 22 anos. <br>
+👦Breno Ribeiro, 23 anos. <br>
 👨‍🎓 Análise e Desenvolvimento de Sistemas - Universidade Estácio de SA.<br>
 🎯 Iniciando carreira como Desenvolvedor Front-End mas com objetivo de me tornar desenvolvedor FullStack futuramente.<br>
 📚 Estudando JavaScript.<br>
