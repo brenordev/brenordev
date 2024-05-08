@@ -1,11 +1,4 @@
-<img src="./Group 33.png" alt="capa">
-
-<div align="left">
-👨‍🎓 Análise e Desenvolvimento de Sistemas - Universidade Estácio de SA.<br>
-📚 Estudando JavaScript e React.<br>
-🎧 <a href="https://open.spotify.com/playlist/5IMF5Ip71xcVj71pjEYXmM?si=abe1a9c19a8043b9" style= color:#fff>Playlist Spotify Coding</a><br>
-</div>
- <hr style="border: none; border-top: 2px dotted black" />
+<img src="./capa_readme.png" alt="capa">
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
