@@ -1,4 +1,4 @@
-<img src="./capa.png" alt="capa">
+<img src="./capa_github.png" alt="capa">
 
 <!--
 <div align="left">
