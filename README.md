@@ -6,14 +6,14 @@
 🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
 💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
 
-##### Minha jornada acadêmica e de estudos
+#### Minha jornada acadêmica e de estudos
 
 - Graduação em Análise e Desenvolvimento de Sistemas - Universidade Estácio.
 - Formação Desenvolvedor Full Stack Júnior **+praTi** & **codifica**.
-- Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.
+- Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.</br></br>
 
-##### Tecnologias e assuntos que estou estudando e tenho interesse no momento:
-[ TypeScript - Banco de Dados - Segurança no Front End - Java ]
+#### Tecnologias e assuntos que estou estudando e tenho interesse no momento:
+TypeScript - Banco de Dados - Segurança no Front End - Java 
 
 ------
 ### ⚙️Tenologias e Ferramentas
@@ -39,7 +39,7 @@
 
 ------
 
-### 🌟 Melhores projetos
+### 🥇 Melhores projetos
 
 ##### **mentorIA** - Mentoria objetiva para a sua evolução profissional
 ###### Sistema web desenvolvido em equipe durante a formação Dev Full Stack Júnior, criado para gerar mentorias personalizadas com base no perfil e nos objetivos profissionais dos usuários. A plataforma utiliza inteligência artificial para montar planos de desenvolvimento, inclui cadastro/login, edição de perfil, criação de metas com prazos e anotações, além de ser totalmente responsiva e integrada entre todas as camadas do sistema. </br>
