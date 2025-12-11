@@ -1,11 +1,10 @@
 <img src="./capa_github.png" alt="capa">
 
-------
 ### 🧑‍💻 Sobre mim
 
-###### • 📚 Em jornada para me tornar um desenvolvedor web completo, com foco em tecnologias atuais e práticas profissionais.</br>
-###### • 🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
-###### • 💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
+###### 📚 Em jornada para me tornar um desenvolvedor web completo, com foco em tecnologias atuais e práticas profissionais.</br>
+###### 🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
+###### 💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
 
 ##### Minha jornada acadêmica e de estudos
 
