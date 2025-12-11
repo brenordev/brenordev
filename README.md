@@ -4,18 +4,20 @@
 
 📚 Em jornada para me tornar um desenvolvedor web completo, com foco em tecnologias atuais e práticas profissionais.</br>
 🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
-💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
+💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.
+</br>
 
 #### Minha jornada acadêmica e de estudos
 
 - Graduação em Análise e Desenvolvimento de Sistemas - Universidade Estácio.
 - Formação Desenvolvedor Full Stack Júnior **+praTi** & **codifica**.
-- Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.</br></br>
+- Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.
 
 #### Tecnologias e assuntos que estou estudando e tenho interesse no momento:
 TypeScript - Banco de Dados - Segurança no Front End - Java 
 
 ------
+
 ### ⚙️Tenologias e Ferramentas
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -48,7 +50,5 @@ TypeScript - Banco de Dados - Segurança no Front End - Java
 
 [Visualizar](https://projeto-mentoria.vercel.app/) ║
 [Repositório](https://github.com/projeto-integrador-full-stack-jr)</br>
-
-------
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenordev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/brenordev/github-readme-activity-graph)
