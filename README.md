@@ -2,17 +2,18 @@
 
 ### 🧑‍💻 Sobre mim
 
-###### 📚 Em jornada para me tornar um desenvolvedor web completo, com foco em tecnologias atuais e práticas profissionais.</br>
-###### 🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
-###### 💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
+📚 Em jornada para me tornar um desenvolvedor web completo, com foco em tecnologias atuais e práticas profissionais.</br>
+🎨 Crio interfaces funcionais com foco em responsividade, usabilidade e interatividade.</br>
+💼 Caminho para construir meu portfólio e atuar como Dev Front-end Júnior.</br></br>
 
 ##### Minha jornada acadêmica e de estudos
 
-###### - Graduação em Análise e Desenvolvimento de Sistemas - Universidade Estácio.
-###### - Formação Desenvolvedor Full Stack Júnior **+praTi** & **codifica**.
-###### - Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.
+- Graduação em Análise e Desenvolvimento de Sistemas - Universidade Estácio.
+- Formação Desenvolvedor Full Stack Júnior **+praTi** & **codifica**.
+- Formação Desenvolvedor Full Stack **Full Stack Club** - no momento.
 
-##### Tecnologias e assuntos que estou estudando atualmente:
+##### Tecnologias e assuntos que estou estudando e tenho interesse no momento:
+[ TypeScript - Banco de Dados - Segurança no Front End - Java ]
 
 ------
 ### ⚙️Tenologias e Ferramentas
